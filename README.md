@@ -38,7 +38,7 @@ Desarrollador con experiencia real en:
 - Desarrollo de páginas web y personalización mediante plugins propios
 - Integración y configuración de funcionalidades a medida
 
-### 🛠️ Soporte IT — *App Informática*
+### 🛠️ Soporte IT — *App Informática* (Prácticas - 2022)
 - Soporte técnico y atención al cliente
 - Resolución de incidencias hardware/software
 
